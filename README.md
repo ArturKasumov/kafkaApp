@@ -1,1 +1,1 @@
-Application with Kafka
+Application with Apache Kafka
